@@ -1,1 +1,1 @@
-exactly what it says on the tin
+Just an exercise in frontend styling. Recreated the Google home page.
